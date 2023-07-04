@@ -1,0 +1,18 @@
+190716 17:49:02 [Note] Plugin 'FEDERATED' is disabled.
+190716 17:49:02 InnoDB: The InnoDB memory heap is disabled
+190716 17:49:02 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190716 17:49:02 InnoDB: Compressed tables use zlib 1.2.3
+190716 17:49:02 InnoDB: Initializing buffer pool, size = 128.0M
+190716 17:49:02 InnoDB: Completed initialization of buffer pool
+190716 17:49:03 InnoDB: Error: tablespace size must be at least 10 MB
+190716 17:49:03 [ERROR] Plugin 'InnoDB' init function returned error.
+190716 17:49:03 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+190907 11:05:16 [Note] Plugin 'FEDERATED' is disabled.
+190907 11:05:16 InnoDB: The InnoDB memory heap is disabled
+190907 11:05:16 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190907 11:05:16 InnoDB: Compressed tables use zlib 1.2.3
+190907 11:05:16 InnoDB: Initializing buffer pool, size = 128.0M
+190907 11:05:16 InnoDB: Completed initialization of buffer pool
+190907 11:05:16 InnoDB: Error: tablespace size must be at least 10 MB
+190907 11:05:16 [ERROR] Plugin 'InnoDB' init function returned error.
+190907 11:05:16 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.

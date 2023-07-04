@@ -1,0 +1,15 @@
+TYPE=VIEW
+query=select count(0) AS `count`,`ocstoolinventorymgmt`.`t_tools`.`tool_type` AS `tool_type` from `ocstoolinventorymgmt`.`t_tools` group by `ocstoolinventorymgmt`.`t_tools`.`tool_type`
+md5=2457324d7ec09f56debd01389b41d534
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=%
+suid=1
+with_check_option=0
+timestamp=2019-12-22 07:12:38
+create-version=1
+source=SELECT count(*) as count, tool_type as tool_type from t_tools group by tool_type
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_general_ci
+view_body_utf8=select count(0) AS `count`,`ocstoolinventorymgmt`.`t_tools`.`tool_type` AS `tool_type` from `ocstoolinventorymgmt`.`t_tools` group by `ocstoolinventorymgmt`.`t_tools`.`tool_type`

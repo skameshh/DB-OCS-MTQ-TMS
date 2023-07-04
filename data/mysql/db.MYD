@@ -1,0 +1,100 @@
+ÿ%                                                                                                                                                                                   test                                                                                                                                                                                                                                            ÿ%                                                                                                                                                                                   test\_%                                                                                                                                                                                                                                         180101 20:38:03 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+180101 20:38:03 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+180101 20:38:03 [Note] Event Scheduler: Loaded 0 events
+180101 20:38:03 [Note] C:\0-Jaga\HAL-ICE_Fixtures\Portable.Mysql.5.5.13\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+180103  8:54:35 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+180103  8:54:35 [Note] Event Scheduler: Loaded 0 events
+180103  8:54:35 [Note] C:\0-Jaga\HAL-ICE_Fixtures\Portable.Mysql.5.5.13\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+190225 12:01:10 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+190225 12:01:10 [Note] Event Scheduler: Loaded 0 events
+190225 12:01:10 [Note] C:\0-Jaga\PROJECTS\PREMIER-HYTEMP\DB\DB-Portable.Mysql.5\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230313 21:17:19 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230313 21:17:19 [Note] Event Scheduler: Loaded 0 events
+230313 21:17:19 [Note] C:\temp\MTQ\Srinath\18-2-2023-DB\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230511  7:25:48 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230511  7:25:48 [Note] Event Scheduler: Loaded 0 events
+230511  7:25:48 [Note] C:\temp\MTQ\Srinath\18-2-2023-DB\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)

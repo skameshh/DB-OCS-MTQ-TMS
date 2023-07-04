@@ -1,0 +1,388 @@
+230113  3:54:35 [Note] Plugin 'FEDERATED' is disabled.
+230113  3:54:35 InnoDB: The InnoDB memory heap is disabled
+230113  3:54:35 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  3:54:35 InnoDB: Compressed tables use zlib 1.2.3
+230113  3:54:35 InnoDB: Initializing buffer pool, size = 128.0M
+230113  3:54:35 InnoDB: Completed initialization of buffer pool
+230113  3:54:35 InnoDB: Error: tablespace size must be at least 10 MB
+230113  3:54:35 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  3:54:35 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:03:32 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:03:32 InnoDB: The InnoDB memory heap is disabled
+230113  4:03:32 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:03:32 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:03:32 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:03:32 InnoDB: Completed initialization of buffer pool
+230113  4:03:32 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:03:32 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:03:32 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:03:32 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+230113  4:03:32 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+230113  4:03:32 [ERROR] Aborting
+
+230113  4:03:32 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: Shutdown complete
+
+230113  4:07:49 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:07:49 InnoDB: The InnoDB memory heap is disabled
+230113  4:07:49 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:07:49 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:07:49 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:07:49 InnoDB: Completed initialization of buffer pool
+230113  4:07:49 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:07:49 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:07:49 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:10:50 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:10:50 InnoDB: The InnoDB memory heap is disabled
+230113  4:10:50 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:10:50 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:10:50 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:10:50 InnoDB: Completed initialization of buffer pool
+230113  4:10:50 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:10:50 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:10:50 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:10:50 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+230113  4:10:50 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+230113  4:10:50 [ERROR] Aborting
+
+230113  4:10:50 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: Shutdown complete
+
+230113  4:12:42 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:12:42 InnoDB: The InnoDB memory heap is disabled
+230113  4:12:42 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:12:42 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:12:42 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:12:42 InnoDB: Completed initialization of buffer pool
+230113  4:12:42 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:12:42 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:12:42 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:27:49 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:27:49 InnoDB: The InnoDB memory heap is disabled
+230113  4:27:49 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:27:49 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:27:49 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:27:49 InnoDB: Completed initialization of buffer pool
+230113  4:27:49 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:27:49 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:27:49 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:27:50 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+230113  4:27:50 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+230113  4:27:50 [ERROR] Aborting
+
+230113  4:27:50 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: Shutdown complete
+
+230113  4:28:22 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:28:22 InnoDB: The InnoDB memory heap is disabled
+230113  4:28:22 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:28:22 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:28:22 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:28:22 InnoDB: Completed initialization of buffer pool
+230113  4:28:22 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:28:22 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:28:22 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:30:44 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:30:44 InnoDB: The InnoDB memory heap is disabled
+230113  4:30:44 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:30:44 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:30:44 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:30:44 InnoDB: Completed initialization of buffer pool
+230113  4:30:44 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:30:44 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:30:44 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:31:31 [Note] Plugin 'FEDERATED' is disabled.
+230113  4:31:31 InnoDB: The InnoDB memory heap is disabled
+230113  4:31:31 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  4:31:31 InnoDB: Compressed tables use zlib 1.2.3
+230113  4:31:31 InnoDB: Initializing buffer pool, size = 128.0M
+230113  4:31:31 InnoDB: Completed initialization of buffer pool
+230113  4:31:31 InnoDB: Error: tablespace size must be at least 10 MB
+230113  4:31:31 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  4:31:31 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  4:31:31 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+230113  4:31:31 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+230113  4:31:31 [ERROR] Aborting
+
+230113  4:31:31 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: Shutdown complete
+
+230113  7:37:32 [Note] Plugin 'FEDERATED' is disabled.
+230113  7:37:32 InnoDB: The InnoDB memory heap is disabled
+230113  7:37:32 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113  7:37:32 InnoDB: Compressed tables use zlib 1.2.3
+230113  7:37:33 InnoDB: Initializing buffer pool, size = 128.0M
+230113  7:37:33 InnoDB: Completed initialization of buffer pool
+230113  7:37:33 InnoDB: Error: tablespace size must be at least 10 MB
+230113  7:37:33 [ERROR] Plugin 'InnoDB' init function returned error.
+230113  7:37:33 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113  7:37:33 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+230113  7:37:33 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+230113  7:37:33 [ERROR] Aborting
+
+230113  7:37:33 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: Shutdown complete
+
+230113 22:01:40 [Note] Plugin 'FEDERATED' is disabled.
+230113 22:01:40 InnoDB: The InnoDB memory heap is disabled
+230113 22:01:40 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230113 22:01:40 InnoDB: Compressed tables use zlib 1.2.3
+230113 22:01:40 InnoDB: Initializing buffer pool, size = 128.0M
+230113 22:01:40 InnoDB: Completed initialization of buffer pool
+230113 22:01:40 InnoDB: Error: tablespace size must be at least 10 MB
+230113 22:01:40 [ERROR] Plugin 'InnoDB' init function returned error.
+230113 22:01:40 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230113 22:01:40 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230113 22:01:40 [Note] Event Scheduler: Loaded 0 events
+230113 22:01:40 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230120 20:17:43 [Note] Plugin 'FEDERATED' is disabled.
+230120 20:17:43 InnoDB: The InnoDB memory heap is disabled
+230120 20:17:43 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230120 20:17:43 InnoDB: Compressed tables use zlib 1.2.3
+230120 20:17:43 InnoDB: Initializing buffer pool, size = 128.0M
+230120 20:17:43 InnoDB: Completed initialization of buffer pool
+230120 20:17:43 InnoDB: Error: tablespace size must be at least 10 MB
+230120 20:17:43 [ERROR] Plugin 'InnoDB' init function returned error.
+230120 20:17:43 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230121 19:27:06 [Note] Plugin 'FEDERATED' is disabled.
+230121 19:27:06 InnoDB: The InnoDB memory heap is disabled
+230121 19:27:06 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230121 19:27:06 InnoDB: Compressed tables use zlib 1.2.3
+230121 19:27:06 InnoDB: Initializing buffer pool, size = 128.0M
+230121 19:27:06 InnoDB: Completed initialization of buffer pool
+230121 19:27:06 InnoDB: Error: tablespace size must be at least 10 MB
+230121 19:27:06 [ERROR] Plugin 'InnoDB' init function returned error.
+230121 19:27:06 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230122 20:49:50 [Note] Plugin 'FEDERATED' is disabled.
+230122 20:49:50 [Note] Plugin 'FEDERATED' is disabled.
+230322 20:49:50 InnoDnB:B TThe  InnoDB memoy y eap is disasbbled
+23001222 20::49:50 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2301222 20:49:5 InnoDB: Compressed tables use zlib 1.2.3
+0 InnoDB: Compressed tables use zlib 1.2.3
+230122 20:49:20 012n2 20:49:50 InnoDB : Inirtializisig buf e128.0M
+ size = 128.0M
+230122 20:49:50 InnoDB: Completed initialization of buffer pool
+230122 20:49:50 InnoDB: Completed initialization of buffer pool
+230122 20:49:50 InnoDB: Error: tablespace size must be at least 10 MB
+230122 20:49:50 [ERROR] Plugin 'InnoDB' init function returned error.
+230122 20:49:50 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230122 20:49:50 InnoDB: Error: tablespace size must be at least 10 MB
+230122 20:49:50 [ERROR] Plugin 'InnoDB' init function returned error.
+230122 20:49:50 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230122 20:49:51 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+230122 20:49:51 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+230122 20:49:51 [ERROR] Aborting
+
+230122 20:49:51 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: Shutdown complete
+
+230122 20:50:15 [Note] Plugin 'FEDERATED' is disabled.
+230122 20:50:15 InnoDB: The InnoDB memory heap is disabled
+230122 20:50:15 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230122 20:50:15 InnoDB: Compressed tables use zlib 1.2.3
+230122 20:50:15 InnoDB: Initializing buffer pool, size = 128.0M
+230122 20:50:15 InnoDB: Completed initialization of buffer pool
+230122 20:50:15 InnoDB: Error: tablespace size must be at least 10 MB
+230122 20:50:15 [ERROR] Plugin 'InnoDB' init function returned error.
+230122 20:50:15 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230124 16:09:00 [Note] Plugin 'FEDERATED' is disabled.
+230124 16:09:01 InnoDB: The InnoDB memory heap is disabled
+230124 16:09:01 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230124 16:09:01 InnoDB: Compressed tables use zlib 1.2.3
+230124 16:09:01 InnoDB: Initializing buffer pool, size = 128.0M
+230124 16:09:01 InnoDB: Completed initialization of buffer pool
+230124 16:09:01 InnoDB: Error: tablespace size must be at least 10 MB
+230124 16:09:01 [ERROR] Plugin 'InnoDB' init function returned error.
+230124 16:09:01 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230125 16:04:21 [Note] Plugin 'FEDERATED' is disabled.
+230125 16:04:21 InnoDB: The InnoDB memory heap is disabled
+230125 16:04:21 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230125 16:04:21 InnoDB: Compressed tables use zlib 1.2.3
+230125 16:04:21 InnoDB: Initializing buffer pool, size = 128.0M
+230125 16:04:21 InnoDB: Completed initialization of buffer pool
+230125 16:04:21 InnoDB: Error: tablespace size must be at least 10 MB
+230125 16:04:21 [ERROR] Plugin 'InnoDB' init function returned error.
+230125 16:04:22 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230125 16:04:24 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230125 16:04:25 [Note] Event Scheduler: Loaded 0 events
+230125 16:04:25 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230126 11:16:56 [Note] Plugin 'FEDERATED' is disabled.
+230126 11:16:57 InnoDB: The InnoDB memory heap is disabled
+230126 11:16:57 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230126 11:16:57 InnoDB: Compressed tables use zlib 1.2.3
+230126 11:16:57 InnoDB: Initializing buffer pool, size = 128.0M
+230126 11:16:57 InnoDB: Completed initialization of buffer pool
+230126 11:16:57 InnoDB: Error: tablespace size must be at least 10 MB
+230126 11:16:57 [ERROR] Plugin 'InnoDB' init function returned error.
+230126 11:16:57 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230127 16:23:17 [Note] Plugin 'FEDERATED' is disabled.
+230127 16:23:20 InnoDB: The InnoDB memory heap is disabled
+230127 16:23:20 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230127 16:23:20 InnoDB: Compressed tables use zlib 1.2.3
+230127 16:23:20 InnoDB: Initializing buffer pool, size = 128.0M
+230127 16:23:20 InnoDB: Completed initialization of buffer pool
+230127 16:23:20 InnoDB: Error: tablespace size must be at least 10 MB
+230127 16:23:20 [ERROR] Plugin 'InnoDB' init function returned error.
+230127 16:23:20 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230127 16:24:01 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230127 16:24:02 [Note] Event Scheduler: Loaded 0 events
+230127 16:24:02 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230128 12:34:43 [Note] Plugin 'FEDERATED' is disabled.
+230128 12:34:45 InnoDB: The InnoDB memory heap is disabled
+230128 12:34:45 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230128 12:34:45 InnoDB: Compressed tables use zlib 1.2.3
+230128 12:34:45 InnoDB: Initializing buffer pool, size = 128.0M
+230128 12:34:45 InnoDB: Completed initialization of buffer pool
+230128 12:34:45 InnoDB: Error: tablespace size must be at least 10 MB
+230128 12:34:46 [ERROR] Plugin 'InnoDB' init function returned error.
+230128 12:34:46 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230129 13:34:17 [Note] Plugin 'FEDERATED' is disabled.
+230129 13:34:17 InnoDB: The InnoDB memory heap is disabled
+230129 13:34:17 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230129 13:34:17 InnoDB: Compressed tables use zlib 1.2.3
+230129 13:34:17 InnoDB: Initializing buffer pool, size = 128.0M
+230129 13:34:17 InnoDB: Completed initialization of buffer pool
+230129 13:34:17 InnoDB: Error: tablespace size must be at least 10 MB
+230129 13:34:17 [ERROR] Plugin 'InnoDB' init function returned error.
+230129 13:34:17 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230130 15:44:24 [Note] Plugin 'FEDERATED' is disabled.
+230130 15:44:25 InnoDB: The InnoDB memory heap is disabled
+230130 15:44:25 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230130 15:44:25 InnoDB: Compressed tables use zlib 1.2.3
+230130 15:44:25 InnoDB: Initializing buffer pool, size = 128.0M
+230130 15:44:25 InnoDB: Completed initialization of buffer pool
+230130 15:44:25 InnoDB: Error: tablespace size must be at least 10 MB
+230130 15:44:25 [ERROR] Plugin 'InnoDB' init function returned error.
+230130 15:44:25 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230201 10:09:39 [Note] Plugin 'FEDERATED' is disabled.
+230201 10:09:39 InnoDB: The InnoDB memory heap is disabled
+230201 10:09:39 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230201 10:09:39 InnoDB: Compressed tables use zlib 1.2.3
+230201 10:09:39 InnoDB: Initializing buffer pool, size = 128.0M
+230201 10:09:39 InnoDB: Completed initialization of buffer pool
+230201 10:09:39 InnoDB: Error: tablespace size must be at least 10 MB
+230201 10:09:39 [ERROR] Plugin 'InnoDB' init function returned error.
+230201 10:09:39 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230202 12:33:01 [Note] Plugin 'FEDERATED' is disabled.
+230202 12:33:01 InnoDB: The InnoDB memory heap is disabled
+230202 12:33:01 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230202 12:33:01 InnoDB: Compressed tables use zlib 1.2.3
+230202 12:33:01 InnoDB: Initializing buffer pool, size = 128.0M
+230202 12:33:01 InnoDB: Completed initialization of buffer pool
+230202 12:33:01 InnoDB: Error: tablespace size must be at least 10 MB
+230202 12:33:01 [ERROR] Plugin 'InnoDB' init function returned error.
+230202 12:33:01 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230203  9:26:23 [Note] Plugin 'FEDERATED' is disabled.
+230203  9:26:23 InnoDB: The InnoDB memory heap is disabled
+230203  9:26:23 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230203  9:26:23 InnoDB: Compressed tables use zlib 1.2.3
+230203  9:26:23 InnoDB: Initializing buffer pool, size = 128.0M
+230203  9:26:23 InnoDB: Completed initialization of buffer pool
+230203  9:26:23 InnoDB: Error: tablespace size must be at least 10 MB
+230203  9:26:23 [ERROR] Plugin 'InnoDB' init function returned error.
+230203  9:26:23 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230204 10:37:15 [Note] Plugin 'FEDERATED' is disabled.
+230204 10:37:16 InnoDB: The InnoDB memory heap is disabled
+230204 10:37:16 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230204 10:37:16 InnoDB: Compressed tables use zlib 1.2.3
+230204 10:37:16 InnoDB: Initializing buffer pool, size = 128.0M
+230204 10:37:16 InnoDB: Completed initialization of buffer pool
+230204 10:37:16 InnoDB: Error: tablespace size must be at least 10 MB
+230204 10:37:16 [ERROR] Plugin 'InnoDB' init function returned error.
+230204 10:37:16 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230204 12:40:23 [Note] Plugin 'FEDERATED' is disabled.
+230204 12:40:23 InnoDB: The InnoDB memory heap is disabled
+230204 12:40:23 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230204 12:40:23 InnoDB: Compressed tables use zlib 1.2.3
+230204 12:40:23 InnoDB: Initializing buffer pool, size = 128.0M
+230204 12:40:23 InnoDB: Completed initialization of buffer pool
+230204 12:40:23 InnoDB: Error: tablespace size must be at least 10 MB
+230204 12:40:23 [ERROR] Plugin 'InnoDB' init function returned error.
+230204 12:40:23 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230204 12:40:23 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+230204 12:40:23 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+230204 12:40:23 [ERROR] Aborting
+
+230204 12:40:23 [Note] E:\DB-OCSMTQTMS-v1.2.1\DB-OCSMTQTMS-v1.2.1\bin\mysqld.exe: Shutdown complete
+
+230205 11:24:19 [Note] Plugin 'FEDERATED' is disabled.
+230205 11:24:20 InnoDB: The InnoDB memory heap is disabled
+230205 11:24:20 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230205 11:24:20 InnoDB: Compressed tables use zlib 1.2.3
+230205 11:24:21 InnoDB: Initializing buffer pool, size = 128.0M
+230205 11:24:21 InnoDB: Completed initialization of buffer pool
+230205 11:24:21 InnoDB: Error: tablespace size must be at least 10 MB
+230205 11:24:21 [ERROR] Plugin 'InnoDB' init function returned error.
+230205 11:24:21 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230211 10:18:54 [Note] Plugin 'FEDERATED' is disabled.
+230211 10:18:54 InnoDB: The InnoDB memory heap is disabled
+230211 10:18:54 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230211 10:18:54 InnoDB: Compressed tables use zlib 1.2.3
+230211 10:18:54 InnoDB: Initializing buffer pool, size = 128.0M
+230211 10:18:54 InnoDB: Completed initialization of buffer pool
+230211 10:18:54 InnoDB: Error: tablespace size must be at least 10 MB
+230211 10:18:54 [ERROR] Plugin 'InnoDB' init function returned error.
+230211 10:18:54 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230213 17:37:10 [Note] Plugin 'FEDERATED' is disabled.
+230213 17:37:10 InnoDB: The InnoDB memory heap is disabled
+230213 17:37:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230213 17:37:10 InnoDB: Compressed tables use zlib 1.2.3
+230213 17:37:10 InnoDB: Initializing buffer pool, size = 128.0M
+230213 17:37:10 InnoDB: Completed initialization of buffer pool
+230213 17:37:10 InnoDB: Error: tablespace size must be at least 10 MB
+230213 17:37:10 [ERROR] Plugin 'InnoDB' init function returned error.
+230213 17:37:10 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+230213 18:00:04 [Note] Plugin 'FEDERATED' is disabled.
+230213 18:00:04 InnoDB: The InnoDB memory heap is disabled
+230213 18:00:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+230213 18:00:04 InnoDB: Compressed tables use zlib 1.2.3
+230213 18:00:04 InnoDB: Initializing buffer pool, size = 128.0M
+230213 18:00:04 InnoDB: Completed initialization of buffer pool
+230213 18:00:04 InnoDB: Error: tablespace size must be at least 10 MB
+230213 18:00:04 [ERROR] Plugin 'InnoDB' init function returned error.
+230213 18:00:04 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
